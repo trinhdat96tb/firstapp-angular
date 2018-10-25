@@ -1,0 +1,86 @@
+/* .navbar-brand .logo{
+    position: absolute;
+    z-index:9999;
+    top: 0;
+    padding-left: 34px;
+    display: block;
+}
+.header{
+    position: fixed;
+    z-index:9000;
+}
+.navbar-brand .logo_mobile{
+    display: none;
+}
+.navbar-nav a{
+    font-weight: bold;
+    font-size:15px;
+    margin:0px 5px 0px 5px;
+}
+.search-form .search-submit {
+    background: url(http://www.nissan.com.vn/wp-content/themes/nissan-vietnam/images/icons.png) no-repeat center -101px;
+    border: none;
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+.search-home{
+    display: block;
+}
+.collapse .main-menu{
+    padding-left:120px;
+}
+.head-index{
+    border-bottom:2px groove;
+}
+@media only screen and (max-width: 800px){
+    .navbar-brand .logo{
+        display: none;
+    }
+    .navbar-brand .logo_mobile{
+        position: relative;
+        z-index:9999;
+        width: 200px;
+        display: block;
+    }
+    .header{
+        height: auto;
+        position: relative;
+    }
+    .search-home{
+        display: none;
+    }
+    .collapse .main-menu{
+        margin-top:16px;
+        padding:0px
+        
+    }
+    .head-index{
+        border:none;
+    }
+    .nav li{
+        border-bottom:1px solid #c1c1c1;
+    }
+    .nav .li .a{
+        border:none;
+    }
+} */
+.search-form .search-submit {
+    background: url(http://www.nissan.com.vn/wp-content/themes/nissan-vietnam/images/icons.png) no-repeat center -101px;
+    border: none;
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+.header{
+    width: 100%;
+}
+
+.head-border{
+    height:90px;
+    border-bottom:1px solid #c1c1c1;;
+}
+
+
